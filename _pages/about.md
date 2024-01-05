@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am chasing my PhD at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Zhenming Peng]((https://idiplab.uestc.cn/queryNews?htmlid=1545286321065)). Currently, my research interests include Optimization, Deep Learning, Image processing, and Infrared Small Target Detection.
+I am chasing my PhD at School of Information and Communication Engineering, University of Electronic Science and Technology of China (UESTC), supervised by Prof. [Zhenming Peng(https://idiplab.uestc.cn/queryNews?htmlid=1545286321065)]. Currently, my research interests include Optimization, Deep Learning, Image processing, and Infrared Small Target Detection.
 
 ## Education
 - PhD, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, 2023-present.
