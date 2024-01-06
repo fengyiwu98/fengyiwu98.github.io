@@ -13,8 +13,8 @@ I am chasing my Ph.D. degree at School of Information and Communication Engineer
 ## Education
 - Ph.D. Candidate, Information and Communication Engineering, School of Information and Communication Engineering, UESTC, China, 2023-present.
 - M.Eng., Information and Communication Engineering, School of Information and Communication Engineering, UESTC, China, 2021-2023.
-- B.Eng, Electronic Information Engineering, UESTC, China, 2017-2021.
-- B.Eng, Electronics and Electrical Engineering, University of Glasgow, UK, 2017-2021.
+- B.Eng., Electronic Information Engineering, UESTC, China, 2017-2021.
+- B.Eng., Electronics and Electrical Engineering, University of Glasgow, UK, 2017-2021.
 
 ## Publication
 \# means equal contribution; * means corresponding author, 🎈 for the current major, 🍭 for some interesting avocations.
